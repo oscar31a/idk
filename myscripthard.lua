@@ -1,3 +1,5 @@
+-- im 12 years old and made this in a couple hours so dont hate on me i know the ui is dogshit
+
 local _0x76bc = game.Players.LocalPlayer
 local _0x72f3 = game.ReplicatedStorage
 local _0x49a9 = _0x76bc.PlayerGui
